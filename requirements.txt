@@ -1,0 +1,6 @@
+cadcad
+cadcad_tools
+jupyter
+pytest
+click
+papermill
